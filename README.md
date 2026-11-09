@@ -27,26 +27,7 @@ A professional, full-stack inventory management system focused on product expiry
 - Node.js 18+
 - MongoDB running locally (or update `.env` with your connection string)
 
-### Installation
 
-```bash
-cd pms
-npm install
-```
-
-### Configure
-Edit `.env` if needed:
-```
-PORT=3000
-MONGODB_URI=mongodb://127.0.0.1:27017/pms_expiry
-SESSION_SECRET=your_secret
-JWT_SECRET=your_jwt_secret
-```
-
-### Seed Demo Data
-```bash
-npm run seed
-```
 
 This creates:
 - Admin: `admin@company.com` / `admin123`
