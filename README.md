@@ -101,13 +101,3 @@ pms/
 - `GET  /api/logs` (admin)
 - `GET  /api/reports`
 
-## Notes for Defense
-
-- All features are fully functional (no placeholders)
-- Expiry status is recalculated on every relevant request and periodically
-- Clean modular code ready for explanation
-- Professional commercial-style UI
-
-## License
-
-MIT – Final Year Project
